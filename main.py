@@ -1,4 +1,3 @@
-import creds
 import Spotify.Core
 
 
